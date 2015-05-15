@@ -8,7 +8,7 @@
 
 import Foundation
 
-//状态协议
+//状态的协议
 protocol ZtDL{
     func isOn(zt:Zhuangtai)
     func isOff(zt:Zhuangtai)

@@ -7,9 +7,8 @@
 //
 
 import Foundation
-//消息代理协议
+//消息的代理协议
 protocol XxDL {
     func newMsg(aMsg:WXMessage)
-    
     
 }
